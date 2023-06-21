@@ -1,0 +1,14 @@
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\bin\Release\AV.exe.config
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\bin\Release\AV.exe
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\bin\Release\AV.pdb
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\bin\Release\System.CodeDom.dll
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\bin\Release\System.CodeDom.xml
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\obj\Release\AV.csproj.AssemblyReference.cache
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\obj\Release\AV.csproj.SuggestedBindingRedirects.cache
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\obj\Release\AV.Antivirus.resources
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\obj\Release\AV.Properties.Resources.resources
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\obj\Release\AV.csproj.GenerateResource.cache
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\obj\Release\AV.csproj.CoreCompileInputs.cache
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\obj\Release\AV.csproj.CopyComplete
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\obj\Release\AV.exe
+C:\Users\moshe\OneDrive\שולחן העבודה\מדעי המחשב\שנה ג - סמסטר ב\סייבר\Anti Virus\AV\AV\obj\Release\AV.pdb

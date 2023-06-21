@@ -1,0 +1,6 @@
+d8d761bebe5ce0bd4a5b3914fc230cc8;mw-1.1-scenario1-static-signature.exe
+b366142c7d324efd0e66591f98e19dad;mw-1.2-scenario1-static-signature.exe
+*****a9333dcdcf7efcae6d79827d8edd2bfd;mw-1.3-scenario1-static-signature.exe
+51cabf9f5be08947df7303c0eae9690a;mw-2.1-scenario2-autostart.exe
+73458f80225c61239d751ee23db9d0ed;mw-3.1-scenario3-suspicious.exe
+6c5f79f88e69966c883ef7207a22be87;mw-4.1-scenario4-network.exe
